@@ -1,6 +1,6 @@
 # Hello, I'm Hamza Fareed
 
-Welcome to my GitHub profile!
+
 
 ## About Me
 I'm a dedicated and detail-oriented **Software Testing & Quality Assurance** enthusiast with a strong foundation in:
@@ -35,6 +35,6 @@ I'm a dedicated and detail-oriented **Software Testing & Quality Assurance** ent
 -  LinkedIn: [linkedin.com/in/hamzafareed](https://linkedin.com/in/hamzafareed)
 - GitHub: [github.com/hamzafareed](https://github.com/hamzafareed)
 
----
+
 
 Thanks for visiting! Let’s connect and collaborate on building better, bug-free software! 
