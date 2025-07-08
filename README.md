@@ -1,40 +1,50 @@
-# Hello, I'm Hamza Fareed
+# 👋 Hello, I'm Hamza Fareed
 
+---
 
+## 🧑‍💼 About Me
+I'm a passionate and detail-focused **Software Tester** and **UML Designer** with strong skills in software quality assurance and system modeling.
 
-## About Me
-I'm a dedicated and detail-oriented **Software Testing & Quality Assurance** enthusiast with a strong foundation in:
-- Manual & Automated Testing
-- Test Case Design, Bug Reporting, and QA Processes
-- Performance, Functional & Regression Testing
-- Expertise in creating **UML Diagrams** (Use Case, Class, Sequence, Activity, etc.)
+---
 
-##  Skills & Tools
+## 🛠️ Skills & Tools
 
-### Software Testing & QA
-- **Testing Tools:** Selenium, Postman, JUnit, Cypress
-- **QA Techniques:** Black-box, White-box, Unit, Integration, System Testing
-- **Test Management:** TestRail, Jira, Bugzilla
+### 🧪 Software Testing
+- 🛠️ Tools: `Selenium` | `Postman` | `JUnit` | `Cypress`  
+- 📋 Test Management: `Jira` | `TestRail` | `Bugzilla`  
+- ✅ Testing Types: `Unit` | `Integration` | `Functional` | `Regression` | `Performance`
 
-###  UML & Design
-- **Diagrams:** Class, Use Case, Activity, Sequence, ERD, State, Component
-- **Tools:** Lucidchart, Draw.io, StarUML, PlantUML
+### 🎨 UML & Software Design
+- 🧾 Diagrams: `Class` | `Use Case` | `Activity` | `Sequence` | `ERD` | `State` | `Component`
+- 🧰 Tools: `Lucidchart` | `Draw.io` | `StarUML` | `PlantUML`
 
-###  Other Technical Skills
-- **Languages:** Python, JavaScript, HTML/CSS
-- **Web Tools:** React.js, Next.js, Git/GitHub
-- **Database:** MySQL, MongoDB
+### 💻 Programming & Development
+- 🌐 Languages: `Python` | `JavaScript` | `HTML/CSS`
+- ⚙️ Web: `React.js` | `Next.js`
+- 🗃️ Database: `MySQL` | `MongoDB`
+- 🔄 Version Control: `Git` | `GitHub`
 
-## Featured Projects
-- *Pest Control Management System* – Full-stack project with UML & testing documentation
-- *AI Tumor Detection System* – CT-scan analysis with automation testing
-- *Foody Zone* – Food ordering system with system diagrams and QA strategy
+---
 
-## Get in Touch
--  Email: hamzafareed@example.com
--  LinkedIn: [linkedin.com/in/hamzafareed](https://linkedin.com/in/hamzafareed)
-- GitHub: [github.com/hamzafareed](https://github.com/hamzafareed)
+## 🚀 Projects
 
+- 🐛 **Pest Control Management System**  
+  Full-stack project with UML diagrams and complete QA documentation.
 
+- 🧠 **AI Tumor Detection System**  
+  CT-scan-based AI system with automation testing reports.
 
-Thanks for visiting! Let’s connect and collaborate on building better, bug-free software! 
+- 🍕 **Foody Zone**  
+  Food ordering web app with full testing strategy and design diagrams.
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: **hamzafareed@example.com**  
+- 💼 LinkedIn: [linkedin.com/in/hamzafareed](https://linkedin.com/in/hamzafareed)  
+- 🐙 GitHub: [github.com/hamzafareed123](https://github.com/hamzafareed123)
+
+---
+
+🙌 Thanks for stopping by! Let’s collaborate and build quality software together!
