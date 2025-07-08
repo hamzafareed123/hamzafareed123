@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Hamza Fareed
+#  Hello, I'm Hamza Fareed
 
 ---
 
@@ -7,9 +7,9 @@ I'm a passionate and detail-focused **Software Tester** and **UML Designer** wit
 
 ---
 
-## 🛠️ Skills & Tools
+##  Skills & Tools
 
-### 🧪 Software Testing
+### Software Testing
 
 | Tools       | Test Management      | Testing Types                                |
 |-------------|----------------------|----------------------------------------------|
@@ -39,21 +39,21 @@ I'm a passionate and detail-focused **Software Tester** and **UML Designer** wit
 
 ## 🚀 Projects
 
-- 🐛 **Pest Control Management System**  
+-  **Pest Control Management System**  
   Full-stack project with UML diagrams and complete QA documentation.
 
-- 🧠 **AI Tumor Detection System**  
+-  **AI Tumor Detection System**  
   CT-scan-based AI system with automation testing reports.
 
-- 🍕 **Foody Zone**  
+-  **Foody Zone**  
   Food ordering web app with full testing strategy and design diagrams.
 
 ---
 
 ## 📬 Contact Me
 
-- 📧 Email: **hamzafareed@example.com**  
-- 💼 LinkedIn: [linkedin.com/in/hamzafareed](https://linkedin.com/in/hamzafareed)  
+- 📧 Email: **hamzafareed616@gmail.com**  
+- 💼 LinkedIn: [https://www.linkedin.com/in/hamza-fareed-274850305/](https://www.linkedin.com/in/hamza-fareed-274850305/)  
 - 🐙 GitHub: [github.com/hamzafareed123](https://github.com/hamzafareed123)
 
 ---
