@@ -2,7 +2,7 @@
 
 ---
 
-## 🧑‍💼 About Me
+## About Me
 I'm a passionate and detail-focused **Software Tester** and **UML Designer** with strong skills in software quality assurance and system modeling.
 
 ---
@@ -10,19 +10,30 @@ I'm a passionate and detail-focused **Software Tester** and **UML Designer** wit
 ## 🛠️ Skills & Tools
 
 ### 🧪 Software Testing
-- 🛠️ Tools: `Selenium` | `Postman` | `JUnit` | `Cypress`  
-- 📋 Test Management: `Jira` | `TestRail` | `Bugzilla`  
-- ✅ Testing Types: `Unit` | `Integration` | `Functional` | `Regression` | `Performance`
+
+| Tools       | Test Management      | Testing Types                                |
+|-------------|----------------------|----------------------------------------------|
+| Selenium    | Jira                 | Unit Testing                                 |
+| Postman     | TestRail             | Integration Testing                          |
+| JUnit       | Bugzilla             | Functional Testing                           |
+| Cypress     |                      | Regression Testing, Performance Testing      |
+
+---
 
 ### 🎨 UML & Software Design
-- 🧾 Diagrams: `Class` | `Use Case` | `Activity` | `Sequence` | `ERD` | `State` | `Component`
-- 🧰 Tools: `Lucidchart` | `Draw.io` | `StarUML` | `PlantUML`
+
+| Diagrams                                      | Design Tools              |
+|----------------------------------------------|----------------------------|
+| Class, Use Case, Activity, Sequence           | Lucidchart, Draw.io       |
+| ERD, State, Component                         | StarUML, PlantUML         |
+
+---
 
 ### 💻 Programming & Development
-- 🌐 Languages: `Python` | `JavaScript` | `HTML/CSS`
-- ⚙️ Web: `React.js` | `Next.js`
-- 🗃️ Database: `MySQL` | `MongoDB`
-- 🔄 Version Control: `Git` | `GitHub`
+
+| Languages              | Web Frameworks       | Databases           | Version Control |
+|------------------------|----------------------|---------------------|-----------------|
+| Python, JavaScript     | React.js, Next.js     | MySQL, MongoDB      | Git, GitHub     |
 
 ---
 
