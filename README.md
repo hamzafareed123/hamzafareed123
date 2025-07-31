@@ -33,7 +33,7 @@ I'm a passionate and detail-focused **Software Tester** and **UML Designer** wit
 
 | Languages              | Web Frameworks       | Databases           | Version Control |
 |------------------------|----------------------|---------------------|-----------------|
-| Python, JavaScript     | React.js, Next.js     | MySQL, MongoDB      | Git, GitHub     |
+| Jaca, JavaScript       | React.js,            | MySQL               | Git, GitHub     |
 
 ---
 
