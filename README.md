@@ -15,8 +15,7 @@ I'm a passionate and detail-focused **Software Tester** and **UML Designer** wit
 |-------------|----------------------|----------------------------------------------|
 | Selenium    | Jira                 | Unit Testing                                 |
 | Postman     | TestRail             | Integration Testing                          |
-| JUnit       | Bugzilla             | Functional Testing                           |
-| Cypress     |                      | Regression Testing, Performance Testing      |
+
 
 ---
 
@@ -33,7 +32,7 @@ I'm a passionate and detail-focused **Software Tester** and **UML Designer** wit
 
 | Languages              | Web Frameworks       | Databases           | Version Control |
 |------------------------|----------------------|---------------------|-----------------|
-| Java, JavaScript       | React.js,            | MySQL               | Git, GitHub     |
+| Java, JavaScript       | React.js, Angular    | MySQL  ,Mongodb     | Git, GitHub     |
 
 ---
 
@@ -48,6 +47,7 @@ I'm a passionate and detail-focused **Software Tester** and **UML Designer** wit
 -  **Foody Zone**  
   Food ordering web app with full testing strategy and design diagrams.
 
+- **ThinkCompared**'
 ---
 
 ## 📬 Contact Me
