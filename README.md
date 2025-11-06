@@ -2,8 +2,6 @@
 
 ---
 
-## About Me
-I'm a passionate and detail-focused **Software Tester** and **UML Designer** with strong skills in software quality assurance and system modeling.
 
 ---
 
