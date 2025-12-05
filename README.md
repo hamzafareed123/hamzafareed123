@@ -1,11 +1,22 @@
 #  Hello, I'm Hamza Fareed
 
----
+
 
 
 ---
 
 ##  Skills & Tools
+
+
+
+
+### 💻 Programming & Development
+
+| Languages              | Web Frameworks       | Databases           | Version Control |
+|------------------------|----------------------|---------------------|-----------------|
+| Java, JavaScript       | React.js, Angular    | MySQL  ,Mongodb     | Git, GitHub     |
+
+---
 
 ### Software Testing
 
@@ -24,15 +35,6 @@
 | Class, Use Case, Activity, Sequence           | Lucidchart, Draw.io       |
 | ERD, State, Component                         | StarUML, PlantUML         |
 
----
-
-### 💻 Programming & Development
-
-| Languages              | Web Frameworks       | Databases           | Version Control |
-|------------------------|----------------------|---------------------|-----------------|
-| Java, JavaScript       | React.js, Angular    | MySQL  ,Mongodb     | Git, GitHub     |
-
----
 
 ## 🚀 Projects
 
