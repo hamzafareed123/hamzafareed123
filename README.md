@@ -28,12 +28,7 @@
 
 ---
 
-### 🎨 UML & Software Design
 
-| Diagrams                                      | Design Tools              |
-|----------------------------------------------|----------------------------|
-| Class, Use Case, Activity, Sequence           | Lucidchart, Draw.io       |
-| ERD, State, Component                         | StarUML, PlantUML         |
 
 
 ## 🚀 Projects
