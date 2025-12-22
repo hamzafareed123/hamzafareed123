@@ -1,8 +1,6 @@
 #  Hello, I'm Hamza Fareed
 
 
-
-
 ---
 
 ##  Skills & Tools
@@ -49,8 +47,7 @@
 
 - 📧 Email: **hamzafareed616@gmail.com**  
 - 💼 LinkedIn: [https://www.linkedin.com/in/hamza-fareed-274850305/](https://www.linkedin.com/in/hamza-fareed-274850305/)  
-- 🐙 GitHub: [github.com/hamzafareed123](https://github.com/hamzafareed123)
+
 
 ---
 
-🙌 Thanks for stopping by! Let’s collaborate and build quality software together!
