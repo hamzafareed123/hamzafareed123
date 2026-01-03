@@ -12,7 +12,7 @@
 ### Software Testing
 - **Tools:** Selenium, Postman  
 - **Test Management:** Jira
-- **Testing Types:** Unit Testing, Integration Testing  
+- **Testing Types:** Unit , Integration  ,Functional  , Api  
 
 ## 📬 Contact
 - 📧 Email: hamzafareed616@gmail.com  
