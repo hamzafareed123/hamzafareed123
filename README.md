@@ -1,6 +1,6 @@
-#  Hi, I'm Hamza Fareed
+#  Hello I am Hamza Fareed
 
-##  Skills & Tools
+##  Skills
 
 ### Programming & Development
 - **Languages:** TypeScript, JavaScript  
