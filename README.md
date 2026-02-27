@@ -6,7 +6,7 @@
 - **Languages:** TypeScript, JavaScript  
 - **Frontend:** React.js, Angular
 - **Backend:** Node.js, express
-- **Databases:** MySQL, MongoDB  
+- **Databases:** MySQL, MongoDB,Postgres  
 - **Version Control:** Git, GitHub  
 
 ### Software Testing
@@ -14,6 +14,3 @@
 - **Test Management:** Jira
 - **Testing Types:** Unit , Integration  ,Functional  , Api  
 
-## 📬 Contact
-- 📧 Email: hamzafareed616@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/hamza-fareed-274850305/
