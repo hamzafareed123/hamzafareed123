@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Hamza Fareed
+#   I'm Hamza Fareed
 
 > **Full-Stack Developer** · **QA Engineer**
 
 ---
 
-## 🛠️ Programming & Development
+##  Programming & Development
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -30,7 +30,7 @@
 
 ---
 
-## 🧪 Software Testing
+##  Software Testing
 
 ### Tools
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
