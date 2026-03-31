@@ -1,10 +1,7 @@
 #   I'm Hamza Fareed
 > **Full-Stack Developer** · **QA Engineer** · **AI Learner**
 
-![Currently Learning](https://img.shields.io/badge/Currently_Learning-Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Exploring-Machine_Learning-FF6C37?style=for-the-badge&logo=python&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Studying-Deep_Learning_&_Transformers-3178C6?style=for-the-badge&logo=pytorch&logoColor=white)
-![LLMs](https://img.shields.io/badge/Building_with-LLMs_&_Agentic_AI-009688?style=for-the-badge&logo=openai&logoColor=white)
+
 
 ---
 
