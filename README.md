@@ -1,5 +1,10 @@
 #   I'm Hamza Fareed
-> **Full-Stack Developer** · **QA Engineer**
+> **Full-Stack Developer** · **QA Engineer** · **AI Learner**
+
+![Currently Learning](https://img.shields.io/badge/Currently_Learning-Artificial_Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Exploring-Machine_Learning-FF6C37?style=for-the-badge&logo=python&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Studying-Deep_Learning_&_Transformers-3178C6?style=for-the-badge&logo=pytorch&logoColor=white)
+![LLMs](https://img.shields.io/badge/Building_with-LLMs_&_Agentic_AI-009688?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
@@ -51,16 +56,13 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
 ### Test Management
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ### Testing Types
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-6DB33F?style=for-the-badge&logoColor=white)
-![Integration](https://img.shields.io/badge/Integration_Testing-8A2BE2?style=for-the-badge&logoColor=white)
 ![Functional](https://img.shields.io/badge/Functional_Testing-FF6347?style=for-the-badge&logoColor=white)
 ![API Testing](https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logoColor=white)
-
 
 ---
 
