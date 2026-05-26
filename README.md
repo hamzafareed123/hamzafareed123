@@ -1,11 +1,9 @@
-#   I'm Hamza Fareed
+# I'm Hamza Fareed
 > **Full-Stack Developer** · **QA Engineer** · **AI Learner**
-
-
 
 ---
 
-##  Programming & Development
+## Programming & Development
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -27,13 +25,13 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -47,7 +45,7 @@
 
 ---
 
-##  Software Testing
+## Software Testing
 
 ### Tools
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -58,8 +56,5 @@
 
 ### Testing Types
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-6DB33F?style=for-the-badge&logoColor=white)
-![Functional](https://img.shields.io/badge/Functional_Testing-FF6347?style=for-the-badge&logoColor=white)
+![Functional Testing](https://img.shields.io/badge/Functional_Testing-FF6347?style=for-the-badge&logoColor=white)
 ![API Testing](https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logoColor=white)
-
----
-
