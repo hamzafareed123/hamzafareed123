@@ -20,7 +20,6 @@ Currently focused on building with **LLMs, LangChain, LangGraph, RAG, AI Agents,
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
----
 
 ###  Frontend
 
@@ -30,7 +29,7 @@ Currently focused on building with **LLMs, LangChain, LangGraph, RAG, AI Agents,
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
----
+
 
 ###  Backend
 
@@ -43,7 +42,7 @@ Currently focused on building with **LLMs, LangChain, LangGraph, RAG, AI Agents,
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
 
----
+
 
 ##  Generative AI & Agentic AI
 
@@ -60,7 +59,7 @@ Currently focused on building with **LLMs, LangChain, LangGraph, RAG, AI Agents,
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
 
----
+
 
 ##  DevOps & Cloud
 
@@ -70,7 +69,7 @@ Currently focused on building with **LLMs, LangChain, LangGraph, RAG, AI Agents,
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
----
+
 
 ##  Software Testing & QA
 
@@ -89,14 +88,14 @@ Currently focused on building with **LLMs, LangChain, LangGraph, RAG, AI Agents,
 * Regression Testing
 * API Validation
   
----
+
 
 ## 🔧 Version Control
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
----
+
 
 ## 💡 Let's Build Something Intelligent
 
@@ -110,8 +109,5 @@ I'm interested in building:
 * 🔄 Agentic AI Workflows
 * ⚡ Scalable Backend Systems
 
-
-
----
 
 ⭐ **Thanks for visiting my profile!**
