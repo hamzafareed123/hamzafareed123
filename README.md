@@ -22,7 +22,7 @@ Currently focused on building with **LLMs, LangChain, LangGraph, RAG, AI Agents,
 
 ---
 
-### 🎨 Frontend
+###  Frontend
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
@@ -32,7 +32,7 @@ Currently focused on building with **LLMs, LangChain, LangGraph, RAG, AI Agents,
 
 ---
 
-### ⚙️ Backend
+###  Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
@@ -45,7 +45,7 @@ Currently focused on building with **LLMs, LangChain, LangGraph, RAG, AI Agents,
 
 ---
 
-## 🤖 Generative AI & Agentic AI
+##  Generative AI & Agentic AI
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
@@ -53,7 +53,7 @@ Currently focused on building with **LLMs, LangChain, LangGraph, RAG, AI Agents,
 
 
 
-## 🗄️ Databases
+##  Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
@@ -62,7 +62,7 @@ Currently focused on building with **LLMs, LangChain, LangGraph, RAG, AI Agents,
 
 ---
 
-## ☁️ DevOps & Cloud
+##  DevOps & Cloud
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
@@ -72,7 +72,7 @@ Currently focused on building with **LLMs, LangChain, LangGraph, RAG, AI Agents,
 
 ---
 
-## 🧪 Software Testing & QA
+##  Software Testing & QA
 
 ### Testing Tools
 
@@ -82,74 +82,13 @@ Currently focused on building with **LLMs, LangChain, LangGraph, RAG, AI Agents,
 
 ### Testing Skills
 
-* 🧪 Unit Testing
-* 🔍 Functional Testing
-* 🔌 API Testing
-* 🔗 Integration Testing
-* 🌐 End-to-End Testing
-* 📝 Test Case Design
-* 🐞 Bug Tracking & Reporting
-* 🔄 Regression Testing
-* 📡 API Validation
-
-
-
-## 🛠️ Core Expertise
-
-### Full-Stack Development
-
-**React · Angular · TypeScript · JavaScript · Node.js · Express · FastAPI · REST · GraphQL**
-
-### AI Engineering
-
-**LLMs · Generative AI · LangChain · LangGraph · RAG · AI Agents · Tool Calling · Agentic Workflows**
-
-### Backend & Data
-
-**Node.js · Python · PostgreSQL · MongoDB · MySQL · Redis · Prisma**
-
-### DevOps
-
-**Docker · AWS · Linux · CI/CD · GitHub Actions**
-
-### Quality Engineering
-
-**Selenium · Postman · Jira · API Testing · Functional Testing · Unit Testing · E2E Testing**
-
----
-
-## 📚 Currently Learning
-
-I’m continuously improving my skills in **AI Engineering and Cloud**.
-
-```text
-LLMs
-  ↓
-Prompt Engineering
-  ↓
-RAG
-  ↓
-LangChain
-  ↓
-LangGraph
-  ↓
-AI Agents
-  ↓
-Tool Calling
-  ↓
-Agentic Workflows
-  ↓
-AI-powered Full-Stack Applications
-```
-
----
-
-## 🎯 Current Focus
-
-> Building production-oriented applications that combine **Full-Stack Engineering + Generative AI + Agentic AI**.
-
-My goal is to build intelligent applications where AI agents can **reason, use tools, interact with APIs, retrieve information, and execute multi-step workflows**.
-
+*  Unit Testing
+*  Functional Testing
+* API Testing
+* Test Case Design
+* Regression Testing
+* API Validation
+  
 ---
 
 ## 🔧 Version Control
