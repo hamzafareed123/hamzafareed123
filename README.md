@@ -6,7 +6,7 @@
 
 I’m a **Full-Stack AI Engineer** passionate about building modern web applications and intelligent AI-powered systems.
 
-My experience spans **frontend development, backend engineering, databases, APIs, cloud, software testing, Generative AI, and Agentic AI**.
+My experience spans **frontend development, backend engineering, databases, APIs, software testing, Generative AI, and Agentic AI**.
 
 Currently focused on building with **LLMs, LangChain, LangGraph, RAG, AI Agents, and AI-powered applications**.
 
@@ -61,23 +61,13 @@ Currently focused on building with **LLMs, LangChain, LangGraph, RAG, AI Agents,
 
 
 
-##  DevOps & Cloud
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-
-
-
 ##  Software Testing & QA
 
 ### Testing Tools
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge\&logo=playwright\&logoColor=white)
 
 
 ## 💡 Let's Build Something Intelligent
